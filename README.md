@@ -1,6 +1,28 @@
-# leetcode-150
-Solutions for all 150 problems from Neetcode Roadmap.
+# 📘 LeetCode 150 Solutions – NeetCode Roadmap
 
-This repository contains all of my soltions divided by the topics the problems are based on.
+Welcome to my repository of solutions for the **[LeetCode 150](https://neetcode.io/roadmap)** 📈 – a curated list of essential problems designed to prepare you for coding interviews like a pro! 💻✨
 
-All the 150 problems are found at neetcode.io/roadmap - Theese are 150 problems gathered from LeetCode spanning all types.
+---
+
+## 📚 About
+
+This repo contains my personal solutions to all **150 problems** from the [NeetCode.io Roadmap](https://neetcode.io/roadmap). These problems span all major topics including:
+
+- ✅ Arrays & Hashing  
+- ✅ Two Pointers  
+- ✅ Sliding Window  
+- ✅ Stack  
+- ✅ Binary Search  
+- ✅ Trees  
+- ✅ Tries  
+- ✅ Heap / Priority Queue  
+- ✅ Backtracking  
+- ✅ Graphs  
+- ✅ Dynamic Programming  
+- ✅ Intervals  
+- ✅ Greedy  
+- ✅ Linked List  
+- ✅ Matrix  
+- ✅ Advanced topics
+
+---
